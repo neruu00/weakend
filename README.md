@@ -94,8 +94,8 @@
     <tr>
         <th scope="col">주</th>
         <th scope="col">멤버</th>
-        <th scope="col" width="240px">제목</th>
-        <th scope="col" width="480px">설명</th>
+        <th scope="col">제목</th>
+        <th scope="col">설명</th>
         <th scope="col">링크</th>
     </tr>
     <tr>
