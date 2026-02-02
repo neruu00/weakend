@@ -72,7 +72,7 @@
     <tr>
         <td>
             <a href="#" target="_blank">
-                <img src="https://avatars.githubusercontent.com/u/135124515?v=4" alt="최성우" width="160" height="160" />
+                <img src="https://avatars.githubusercontent.com/u/149999133?v=4" alt="최성우" width="160" height="160" />
             </a>
         </td>
     </tr>
@@ -81,7 +81,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="#" target="_blank">github id</a>
+            <a href="#" target="_blank">CSeongWoo</a>
         </td>
     </tr>
 </table>
