@@ -18,27 +18,27 @@
     <tr>
         <td>
             <a href="https://github.com/neruu00" target="_blank">
-                <img src="https://avatars.githubusercontent.com/u/71242138?v=4" alt="우재현" width="160" height="160" />
+                <img src="https://avatars.githubusercontent.com/u/71242138?v=4" alt="우재현" width="140" height="140" />
             </a>
         </td>
         <td>
             <a href="https://github.com/1Irving1" target="_blank">
-                <img src="https://avatars.githubusercontent.com/u/135124515?v=4" alt="정상훈" width="160" height="160" />
+                <img src="https://avatars.githubusercontent.com/u/135124515?v=4" alt="정상훈" width="140" height="140" />
             </a>
         </td>
         <td>
             <a href="https://github.com/g0rnn" target="_blank">
-                <img src="https://avatars.githubusercontent.com/u/124599614?v=4" alt="김균호" width="160" height="160" />
+                <img src="https://avatars.githubusercontent.com/u/124599614?v=4" alt="김균호" width="140" height="140" />
             </a>
         </td>
         <td>
             <a href="https://github.com/Seol-Munhyeok" target="_blank">
-                <img src="https://avatars.githubusercontent.com/u/150120907?v=4" alt="설문혁" width="160" height="160" />
+                <img src="https://avatars.githubusercontent.com/u/150120907?v=4" alt="설문혁" width="140" height="140" />
             </a>
         </td>
         <td>
             <a href="https://github.com/hapoom2" target="_blank">
-                <img src="https://avatars.githubusercontent.com/u/197224258?v=4" alt="신재은" width="160" height="160" />
+                <img src="https://avatars.githubusercontent.com/u/197224258?v=4" alt="신재은" width="140" height="140" />
             </a>
         </td>
     </tr>
@@ -72,7 +72,7 @@
     <tr>
         <td>
             <a href="#" target="_blank">
-                <img src="https://avatars.githubusercontent.com/u/149999133?v=4" alt="최성우" width="160" height="160" />
+                <img src="https://avatars.githubusercontent.com/u/149999133?v=4" alt="최성우" width="140" height="140" />
             </a>
         </td>
     </tr>
