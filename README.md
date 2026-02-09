@@ -96,7 +96,7 @@
         <th scope="col" width="80">멤버</th>
         <th scope="col">제목</th>
         <th scope="col">설명</th>
-        <th scope="col" width="60">링크</th>
+        <th scope="col" width="68">링크</th>
     </tr>
     <tr>
         <th scope="row" rowspan="6">1주차</th>
