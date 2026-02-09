@@ -92,35 +92,59 @@
 
 <table>
     <tr>
-        <th scope="col">주</th>
-        <th scope="col">멤버</th>
+        <th scope="col" width="80">주</th>
+        <th scope="col" width="80">멤버</th>
         <th scope="col">제목</th>
         <th scope="col">설명</th>
-        <th scope="col">링크</th>
+        <th scope="col" width="60">링크</th>
     </tr>
     <tr>
-        <th scope="row" rowspan="3">0주차</th>
+        <th scope="row" rowspan="6">1주차</th>
         <td>우재현</td>
-        <td>javascript banana</td>
-        <td>자바스크립트는 바나나</td>
+        <td>바운스볼</td>
+        <td>Java Swing을 활용해서 만드는 바운스볼 게임</td>
         <td>
-            <a href="https://miro.medium.com/v2/resize:fit:706/1*Zk-LFN8_AtzNqJGj0Q84Pw.png" target="_blank">[링크]</a>
+            <a href="https://github.com/neruu00/BounceBall" target="_blank">[링크]</a>
         </td>
     </tr>
     <tr>
-        <td>우재현</td>
-        <td>javascript banana</td>
-        <td>자바스크립트는 바나나</td>
+        <td>최성우</td>
+        <td>JWTLogin</td>
+        <td>싱글톤 패턴을 활용하여 로그인 로직 구현</td>
         <td>
-            <a href="https://miro.medium.com/v2/resize:fit:706/1*Zk-LFN8_AtzNqJGj0Q84Pw.png" target="_blank">[링크]</a>
+            <a href="https://github.com/CSeongWoo/LoginJWT" target="_blank">[링크]</a>
         </td>
     </tr>
     <tr>
-        <td>우재현</td>
-        <td>javascript banana</td>
-        <td>자바스크립트는 바나나</td>
+        <td>설문혁</td>
+        <td>singleton config preview</td>
+        <td>Java Swing 기반의 설정 관리자 미니 프로젝트</td>
         <td>
-            <a href="https://miro.medium.com/v2/resize:fit:706/1*Zk-LFN8_AtzNqJGj0Q84Pw.png" target="_blank">[링크]</a>
+            <a href="https://github.com/Seol-Munhyeok/singleton-config-preview" target="_blank">[링크]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>김균호</td>
+        <td>Java Shell</td>
+        <td>자바로 만든 Shell</td>
+        <td>
+            <a href="https://github.com/g0rnn/java-shell" target="_blank">[링크]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>신재은</td>
+        <td>singleton config preview</td>
+        <td>재귀 호출 흐름을 디버깅하듯 단계별(step-by-step) 로 시각화하는 웹페이지</td>
+        <td>
+            <a href="https://github.com/hapoom2/subset_visualizer" target="_blank">[링크]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>정상훈</td>
+        <td>Singleton Event Logger</td>
+        <td>싱글톤 패턴과 Deque 자료구조를 활용하여 최신 이벤트를 실시간으로 관리하고 시각화하는 로그 시스템</td>
+        <td>
+            <a href="https://github.com/1Irving1/java-singleton" target="_blank">[링크]</a>
         </td>
     </tr>
 </table>
