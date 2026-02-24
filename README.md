@@ -88,16 +88,67 @@
 
 <br>
 
-## 💻 진행 현황
+## 💻 프로젝트 소개
 
 <table>
-    <tr>
+<tr>
         <th scope="col" width="80">주</th>
         <th scope="col" width="80">멤버</th>
         <th scope="col">제목</th>
         <th scope="col">설명</th>
         <th scope="col" width="68">링크</th>
     </tr>
+    <!-- 2주차 -->
+    <tr>
+        <th scope="row" rowspan="6">1주차</th>
+        <td>우재현</td>
+        <td>미로찾기</td>
+        <td>BFS와 DFS를 활용한 미로찾기</td>
+        <td>
+            <a href="https://github.com/neruu00/MazePuzzle" target="_blank">[링크]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>최성우</td>
+        <td>TopoDI</td>
+        <td>스프링 프레임워크의 Bean 객체 등록 실제 작동 과정을 위상 정렬 알고리즘을 활용해 구현</td>
+        <td>
+            <a href="https://github.com/CSeongWoo/TopoDI" target="_blank">[링크]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>설문혁</td>
+        <td>2048 CLI</td>
+        <td>실제 플레이 가능한 콘솔( CLI ) 2048 게임</td>
+        <td>
+            <a href="https://github.com/Seol-Munhyeok/2048CLI" target="_blank">[링크]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>김균호</td>
+        <td>Java Shell</td>
+        <td>자바로 객체지향스럽게 만들어 보는 쉘 프로그램</td>
+        <td>
+            <a href="https://github.com/g0rnn/java-shell" target="_blank">[링크]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>신재은</td>
+        <td>FancyShortcuts</td>
+        <td>기본 크롬보다 더 많은 기능을 지원하는 확장프로그램입니다.</td>
+        <td>
+            <a href="https://github.com/hapoom2/fancyShortcuts" target="_blank">[링크]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>정상훈</td>
+        <td>섬의 면적 구하기 문제 시각화 프로젝트</td>
+        <td>DFS를 통해 모든 섬의 면적을 구하는 과정을 단계별로 시각화하는 웹 애플리케이션</td>
+        <td>
+            <a href="https://github.com/1Irving1/IslandArea_Visualization_Project" target="_blank">[링크]</a>
+        </td>
+    </tr>
+    <!-- 1주차 -->
     <tr>
         <th scope="row" rowspan="6">1주차</th>
         <td>우재현</td>
