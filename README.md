@@ -75,13 +75,22 @@
                 <img src="https://avatars.githubusercontent.com/u/149999133?v=4" alt="최성우" width="140" height="140" />
             </a>
         </td>
+        <td>
+            <a href="https://github.com/Yu-HsH" target="_blank">
+                <img src="https://avatars.githubusercontent.com/u/185761462?v=4" alt="황성현" width="140" height="140" />
+            </a>
+        </td>
     </tr>
     <tr>
         <td align="center">최성우</td>
+        <td align="center">황성현</td>
     </tr>
     <tr>
         <td align="center">
             <a href="https://github.com/CSeongWoo" target="_blank">CSeongWoo</a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Yu-HsH" target="_blank">Yu-HsH</a>
         </td>
     </tr>
 </table>
@@ -100,7 +109,7 @@
     </tr>
     <!-- 2주차 -->
     <tr>
-        <th scope="row" rowspan="6">1주차</th>
+        <th scope="row" rowspan="6">2주차</th>
         <td>우재현</td>
         <td>미로찾기</td>
         <td>BFS와 DFS를 활용한 미로찾기</td>
@@ -142,7 +151,7 @@
     </tr>
     <tr>
         <td>정상훈</td>
-        <td>섬의 면적 구하기 문제 시각화 프로젝트</td>
+        <td>섬의 면적 구하기 문제 시각화</td>
         <td>DFS를 통해 모든 섬의 면적을 구하는 과정을 단계별로 시각화하는 웹 애플리케이션</td>
         <td>
             <a href="https://github.com/1Irving1/IslandArea_Visualization_Project" target="_blank">[링크]</a>
